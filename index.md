@@ -23,4 +23,6 @@ ChangeGun
 ### 서브 컨셉6 : 탈출
 *최종 목표는 탈출이며 방법은 복수로 존재한다.
 
-![Alt Text]
+## 대표 이미지
+
+<img src=".img/main.png" width = 600> <br>

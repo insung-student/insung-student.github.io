@@ -30,7 +30,7 @@ ChangeGun
 
 -------------
 
-#게임 오브젝트 분해 및 속성 <br>
+# 게임 오브젝트 분해 및 속성 <br>
 
 ### 1.플레이어
 <img src="img/player.png" width = 200> <br>

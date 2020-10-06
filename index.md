@@ -33,25 +33,25 @@ ChangeGun
 #게임 오브젝트 분해(구성요소) <br>
 
 ### 1.플레이어
-<img src="img/player.png" width = 500> <br>
+<img src="img/player.png" width = 200> <br>
 
 ### 2.체인지건
-<img src="img/ChangeGun.png" width = 500> <br>
+<img src="img/ChangeGun.png" width = 200> <br>
 
 ### 3.탄
-<img src="img/bullet.png" width = 500> <br>
+<img src="img/bullet.png" width = 200> <br>
 
 ### 4.박스
-<img src="img/Box.png" width = 500> <br>
+<img src="img/Box.png" width = 200> <br>
 
 ### 5.벽/바닥
-<img src="img/wall.png" width = 500> <br>
+<img src="img/wall.png" width = 200> <br>
 
 ### 6.철망 벽/바닥
-<img src="img/canwall.png" width = 500> <br>
+<img src="img/canwall.png" width = 200> <br>
 
 ### 7.버튼
-<img src="img/button.png" width = 500> <br>
+<img src="img/button.png" width = 200> <br>
 
 -------------
 

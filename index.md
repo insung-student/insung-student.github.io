@@ -25,4 +25,4 @@ ChangeGun
 
 ## 대표 이미지
 
-<img src=".img/main.png" width = 600> <br>
+<img src="img/main.png" width = 600> <br>

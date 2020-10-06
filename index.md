@@ -1,6 +1,6 @@
 ChangeGun
 =========
-## [컨셉]
+# [컨셉]
 
 ### 메인 컨셉 : 실험
 *미지의 존재가 지구 생명체의 지능 테스트를 위해 종류별로 납치 하여 실험을 진행한다.
@@ -24,8 +24,37 @@ ChangeGun
 *최종 목표는 탈출이며 방법은 복수로 존재한다.
 
 --------------
-## 대표 이미지 & 작품 묘사
+# 대표 이미지 & 작품 묘사
 
 <img src="img/main.png" width = 1000> <br>
+
+-------------
+
+#게임 오브젝트 분해(구성요소) <br>
+
+### 1.플레이어
+<img src="img/player.png" width = 500> <br>
+
+### 2.체인지건
+<img src="img/ChangeGun.png" width = 500> <br>
+
+### 3.탄
+<img src="img/bullet.png" width = 500> <br>
+
+### 4.박스
+<img src="img/Box.png" width = 500> <br>
+
+### 5.벽/바닥
+<img src="img/wall.png" width = 500> <br>
+
+### 6.철망 벽/바닥
+<img src="img/canwall.png" width = 500> <br>
+
+### 7.버튼
+<img src="img/button.png" width = 500> <br>
+
+-------------
+
+
 
 

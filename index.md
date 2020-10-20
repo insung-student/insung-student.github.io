@@ -113,13 +113,13 @@ ChangeGun 미션 요구사항
 
 # 키보드 이벤트에 대한 흐름도
 
-<img src="img.keyalgo.png"> <br>
+<img src="img/keyalgo.png"> <br>
 
 -------------------
 
 # 용어 정리
 
-<img src="img.aaa.png"> <br>
+<img src="img/aaa.png"> <br>
 
 -------------------
 
@@ -131,4 +131,4 @@ ChangeGun 미션 요구사항
 
 # 게임 개발 일정
 
-<img src="img.bbb.png"> <br>
+<img src="img/.png"> <br>

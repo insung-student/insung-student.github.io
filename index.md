@@ -131,4 +131,4 @@ ChangeGun 미션 요구사항
 
 # 게임 개발 일정
 
-<img src="img/.png"> <br>
+<img src="img/bbb.png"> <br>
